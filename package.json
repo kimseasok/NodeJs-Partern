@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-partern",
+  "version": "1.0.0",
+  "description": "NodeJs partern course",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimseasok/NodeJs-Partern.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Kimsea Sok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimseasok/NodeJs-Partern/issues"
+  },
+  "homepage": "https://github.com/kimseasok/NodeJs-Partern#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
